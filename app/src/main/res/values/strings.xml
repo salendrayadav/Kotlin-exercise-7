@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMI-ViewModel</string>
+    <string name="body_mass_index_is">BMI =</string>
+</resources>

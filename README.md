@@ -1,1 +1,0 @@
-# Kotlin-exercise-7
